@@ -13,5 +13,5 @@ namespace WindowsFormsApp4
         public string Descripcion { get; set; }
         public string UrlImagen { get; set; }
 
-    }
+    } //cambios para nuevo commit
 }
